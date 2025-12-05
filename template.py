@@ -12,7 +12,12 @@
 # PART 1
 
 def solve_part1(data):
+    # data = test_part1() # uncomment to run testcase
     print(data)
+
+
+def test_part1():
+    return []
 
 
 
@@ -20,7 +25,12 @@ def solve_part1(data):
 # PART 2
 
 def solve_part2(data):
+    # data = test_part1() # uncomment to run testcase
     print(data)
+
+
+def test_part2():
+    return []
 
 
 
@@ -37,7 +47,7 @@ if __name__ == "__main__":
     data = parse_input(raw)
 
     print("Part 1:", solve_part1(data))
-    print("Part 2:", solve_part2(data))
+    # print("Part 2:", solve_part2(data))
 
 
 
