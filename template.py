@@ -25,7 +25,7 @@ def test_part1():
 # PART 2
 
 def solve_part2(data):
-    # data = test_part1() # uncomment to run testcase
+    # data = test_part2() # uncomment to run testcase
     print(data)
 
 
